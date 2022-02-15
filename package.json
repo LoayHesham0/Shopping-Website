@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alert": "^5.0.10",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.4",
+    "cookie-session": "^2.0.0",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-flash-message": "^2.1.0",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.0",
+    "mongodb": "^4.2.0",
+    "morgan": "~1.9.1",
+    "node-popup": "^0.1.14",
+    "popups": "^1.1.3"
+  }
+}
